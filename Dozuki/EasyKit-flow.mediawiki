@@ -1,0 +1,142 @@
+== Get Started == 
+
+=== Welcome ===
+
+Warm fuzzy feeling. About JellyBOX. About this guide. About you.
+
+If you're building from scratch, we highly recommend you go with the flow in the suggested order. We spent countless hours testing and revising the build flow to balance ease of build with efficiency and just-in-time advice. 
+
+A welcome video: 
+[video| https://youtu.be/NpEaa2P7qZI| size=large]
+
+=== Unboxing the Easy Kit ===
+
+What's in the box. Seriously; what's in the box? 
+http://imade3d.dozuki.com/Guide/EasyKit-Unboxing/153
+
+=== Jellybox Anatomy & Glossary ===
+
+Nine out of ten doctors believe it's to know what you're building and how we call all these unknown mysterious parts.
+ 
+A JB Anatomy video: 
+[video| https://youtu.be/NpEaa2P7qZI| size=large]
+
+Link to BOM and exlanation of terms. 
+
+=== Workspace Setup === 
+
+An organized workspace will 
+* make the build more enjoyable. You can focus on the build instead of searching for tools 60% of the time
+* make it all go faster
+* reduce the potential for breaking things and making mistakes
+
+''(True story: we have had a maker burn his control electronics because a stray screwdriver shorted the contact on the back of the board. A high price for mess on the table.)''
+
+http://imade3d.dozuki.com/Guide/Workspace+Setup/155
+
+=== Peel Acrylic ===
+
+http://imade3d.dozuki.com/Guide/Peel+the+Acrylic/156
+
+=== Tools of the Trade ===
+Tips and tricks on how to use the tools that came with your JellyBOX. 
+
+You should always use the righ tool for the job. Tips and tricks on how to use the tools that came with your JellyBOX. 
+
+Zip ties. 
+How to use the tools and such. 
+Zip tie gun. Vise-grip. 
+
+
+== Pre-Assemble the Y Axis ==
+
+[guidelist|tag=y-bracket]
+
+=== Y Motor Bracket ===
+
+Install Y Pulley
+Install Y Motor
+  
+=== Y Assembly ===
+
+Build Platform
+Attach the Y Belt 
+
+
+== Pre-Assemble the X Axis ==
+
+X Assembly
+  X Motor 
+  X Belt
+  Left Fan
+  Z-Probe
+  Z-Probe and Right Fan
+  Wire Harness
+
+
+== Build the basic Frame ==
+
+BOX Quadruple 
+inner back + bottom + left | right
+
+
+== Electronics Part I ==
+
+JellyBox Electronics run down / overview
+Wiring 01: zip ties + wire comb
+race
+Wiring 02: Arduino, RAMPS
+heatsinks
+Multimeter Practice  
+Wiring 03: Power Supply
+Wiring 05: Add USB Extension
+
+
+== Adjoin the Y and Z Axes ==
+
+#join #electro Y+Z Motors + Y EndStop
+#prep Y idler
+#join Y assembly to Box
+
+
+== Adjoin the X Axis ==
+
+=== join X assembly to Box ===
+ + Attach the harness with 5' zip ties
+
+=== Wire up X Assembly Harness ===
+
+
+== Hook Up the Z Axis ==
+
+ZX Coupler
+
+
+== It's Alive! == 
+
+Get the printer to printing before  closing it up (in case any of the wires need to be replaced)
+
+
+== Finish the Frame ==
+
+=== Brace ===
+
+self explanatory
+
+=== Front ===
+
+controller
+adjoin the front
+
+=== Back ===
+
+little discs/ not? 
+adjoin the back
+
+=== Top ===
+
+adjoin the top
+don't forget the wires
+
+
+  
