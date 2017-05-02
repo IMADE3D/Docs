@@ -2,7 +2,7 @@
 
 === Welcome ===
 
-Warm fuzzy feeling. About JellyBOX. About this guide. About you.
+Warm fuzzy feeling. About JellyBOX. About this build guide. About you.
 
 If you're building from scratch, we highly recommend you go with the flow in the suggested order. We spent countless hours testing and revising the build flow to balance ease of build with efficiency and just-in-time advice. 
 
