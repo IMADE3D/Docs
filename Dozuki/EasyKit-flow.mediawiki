@@ -1,4 +1,4 @@
-
+[flag|private]
 
 == THE FLOW OF THE EASY BUILD ==
 
