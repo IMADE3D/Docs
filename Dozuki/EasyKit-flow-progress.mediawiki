@@ -1,0 +1,115 @@
+[flag|private]
+
+== THE FLOW OF THE EASY BUILD ==
+
+== Get Started ==
+
+=== Welcome ===
+
+=== Jellybox Anatomy & Glossary ===
+
+=== Workspace Setup ===
+
+=== Peel the Acrylic ===
+
+=== Tools of the Trade ===
+
+== Pre-Assemble the Y Axis ==
+
+The first bigger piece of the puzzle.
+
+=== Y Motor Bracket ===
+
+https://imade3d.dozuki.com/Guide/Y+Motor+Bracket/145
+
+=== Y Assembly ===
+
+https://imade3d.dozuki.com/Guide/Y+Assembly/160
+
+== Pre-Assemble the X Axis ==
+
+The secong bigger piece of the puzzle.
+
+=== X Assembly ===
+
+https://imade3d.dozuki.com/Guide/X+Assembly/147
+
+== Build the Basic Frame ==
+
+We'll only build a part of the JellyBOX frame (bottom, inner back, left, right), so that we have better access to the innards as we'll add additional components, and all the electronics.
+
+In fact, we'll get the JellyBOX all the way to printing before we close it up completely. (You didn't expect that, did you?)
+
+https://imade3d.dozuki.com/Guide/Basic+Frame/171
+
+== The Power and The Brains ==
+
+We'll safely hook up the control unit (RAMPS) and the controller, and verify everything is alive and kicking.
+
+https://imade3d.dozuki.com/Guide/Electronics/180#s689
+
+== Install the Y and Z Axes ==
+
+Time to incorporate the Y Assemly!
+
+We'll also install and wire up the Z Axis because the Y and Z wires run along in many places. Efficiency shall be our nickname.
+
+=== Install Y Assembly ===
+
+https://imade3d.dozuki.com/Guide/Install+the+Y+Assembly/184
+
+=== YYZ - Y+Z Motors + Y EndStop ===
+
+https://imade3d.dozuki.com/Guide/YYZ+-+Y-Z+Motors+%2B+Y+EndStop/179
+
+== Install the X Assembly ==
+
+Time to incorporate the X Assemly!
+
+https://imade3d.dozuki.com/Guide/Install+the+X+Assembly/189
+
+== Hook Up the Z Axis ==
+
+https://imade3d.dozuki.com/Guide/Install+the+ZX+Coupler/193
+
+== Brace ==
+
+https://imade3d.dozuki.com/Guide/Install+the+Brace/196
+
+== Front ==
+
+https://imade3d.dozuki.com/Guide/Install+the+Front/198
+
+== Checkpoint: It's Alive! ==
+
+Let's test all the major components before closing closing the JellyBOX up. In case there is any problem, it will be easier to fix now than later.
+
+Home X, Y, Z.
+
+Z led light.
+
+Verify the hotend fan.
+
+Heat up the hotend.
+
+Extrude some filament.
+
+Test the filament fan.
+
+== Finish the Frame ==
+
+The printer is ready to print, but to secure the geometry, protect the electronics, and get some nice built-in filament spool rollers, let's put the BOX into the JellyBOX.
+
+=== Back ===
+
+https://imade3d.dozuki.com/Guide/Install+the+Back/199
+
+=== Top ===
+
+https://imade3d.dozuki.com/Guide/Install+the+Top/202
+
+== Final Touches ==
+
+Let's zip tie it all together for ultimate strength. 
+
+https://imade3d.dozuki.com/Guide/Fininal+Touches/205
