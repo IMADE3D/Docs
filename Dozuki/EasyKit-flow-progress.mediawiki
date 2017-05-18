@@ -20,11 +20,11 @@ The first bigger piece of the puzzle.
 
 === Y Motor Bracket ===
 
-https://imade3d.dozuki.com/Guide/Y+Motor+Bracket/145
+[guidelist|tag=Y Motor Bracket]   
 
 === Y Assembly ===
 
-https://imade3d.dozuki.com/Guide/Y+Assembly/160
+[guidelist|tag=Assemble the Y Assembly]
 
 == Pre-Assemble the X Axis ==
 
@@ -32,7 +32,7 @@ The secong bigger piece of the puzzle.
 
 === X Assembly ===
 
-https://imade3d.dozuki.com/Guide/X+Assembly/147
+[guidelist|tag=Assemble the X Assembly]   
 
 == Build the Basic Frame ==
 
@@ -40,13 +40,13 @@ We'll only build a part of the JellyBOX frame (bottom, inner back, left, right),
 
 In fact, we'll get the JellyBOX all the way to printing before we close it up completely. (You didn't expect that, did you?)
 
-https://imade3d.dozuki.com/Guide/Basic+Frame/171
+[guidelist|tag=Basic Frame]   
 
 == The Power and The Brains ==
 
 We'll safely hook up the control unit (RAMPS) and the controller, and verify everything is alive and kicking.
 
-https://imade3d.dozuki.com/Guide/Electronics/180#s689
+[guidelist|tag=Basic Frame]   
 
 == Install the Y and Z Axes ==
 
@@ -56,29 +56,29 @@ We'll also install and wire up the Z Axis because the Y and Z wires run along in
 
 === Install Y Assembly ===
 
-https://imade3d.dozuki.com/Guide/Install+the+Y+Assembly/184
+[guidelist|tag=Install the Y Assembly]   
 
 === YYZ - Y+Z Motors + Y EndStop ===
 
-https://imade3d.dozuki.com/Guide/YYZ+-+Y-Z+Motors+%2B+Y+EndStop/179
+[guidelist|tag=YYZ]   
 
 == Install the X Assembly ==
 
 Time to incorporate the X Assemly!
 
-https://imade3d.dozuki.com/Guide/Install+the+X+Assembly/189
+[guidelist|tag=Install the X Assembly]   
 
 == Hook Up the Z Axis ==
 
-https://imade3d.dozuki.com/Guide/Install+the+ZX+Coupler/193
+[guidelist|tag=Install the ZX Coupler]   
 
 == Brace ==
 
-https://imade3d.dozuki.com/Guide/Install+the+Brace/196
+[guidelist|tag=Install the Brace]   
 
 == Front ==
 
-https://imade3d.dozuki.com/Guide/Install+the+Front/198
+[guidelist|tag=Install the Front]   
 
 == Checkpoint: It's Alive! ==
 
@@ -102,14 +102,14 @@ The printer is ready to print, but to secure the geometry, protect the electroni
 
 === Back ===
 
-https://imade3d.dozuki.com/Guide/Install+the+Back/199
+[guidelist|tag=Install the Back]   
 
 === Top ===
 
-https://imade3d.dozuki.com/Guide/Install+the+Top/202
+[guidelist|tag=Install the Top]   
 
 == Final Touches ==
 
 Let's zip tie it all together for ultimate strength. 
 
-https://imade3d.dozuki.com/Guide/Fininal+Touches/205
+[guidelist|tag=Final Touches]   
