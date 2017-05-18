@@ -68,9 +68,9 @@ The first bigger piece of the puzzle.
 
 === Y Motor Bracket ===
 
-Install Y Pulley
+Install the Y Pulley
 
-Install Y Motor
+Install the Y Motor
 
 === Y Assembly ===
 
@@ -82,19 +82,22 @@ Attach the Y Belt
 
 The secong bigger piece of the puzzle.
 
-== X Assembly ==
+=== X Assembly ===
 
-X Motor
 
-X Belt
+Install the X Pulley
 
-Left Fan
+Install the X Motor
 
-Z-Probe
+Install the X Belt
 
-Z-Probe and Right Fan
+Install the Left Fan
 
-Wire Harness
+Install the Z-Probe
+
+Attach the Wire Harness
+
+==== dual fan variant: Install Z-Probe and Right Fan ====
 
 == Build the Basic Frame ==
 
