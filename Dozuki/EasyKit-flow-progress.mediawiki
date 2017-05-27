@@ -1,7 +1,5 @@
 [flag|private]
 
-== THE FLOW OF THE EASY BUILD ==
-
 == Get Started ==
 
 === Welcome ===
@@ -46,7 +44,7 @@ In fact, we'll get the JellyBOX all the way to printing before we close it up co
 
 We'll safely hook up the control unit (RAMPS) and the controller, and verify everything is alive and kicking.
 
-[guidelist|tag=Basic Frame]   
+[guidelist|tag=Electronics]   
 
 == Install the Y and Z Axes ==
 
@@ -107,6 +105,16 @@ The printer is ready to print, but to secure the geometry, protect the electroni
 === Top ===
 
 [guidelist|tag=Install the Top]   
+
+== Before Your First Print ==
+
+=== X Homing Offset === 
+
+[guidelist|tag=X Homing Offset]   
+
+=== First Layer Height Setup ===
+
+[guidelist|tag=First Layer Height Setup]   
 
 == Final Touches ==
 
